@@ -1,3 +1,5 @@
 hello Git hub 
 
 First day training
+
+this is second day class with reset revert branch:
